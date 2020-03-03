@@ -6,6 +6,8 @@
             <input type="text"/>
             <label>Item Category</label>
             <input type="text"/>
+            <label>Item Quantity</label>
+            <input type="number"/>
         </form>
     </div>
 </template>
